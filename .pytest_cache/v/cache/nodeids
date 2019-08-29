@@ -1,0 +1,4 @@
+[
+  "test/test_dhcp_manager.py::TestDhcpManager::test_add_line_config", 
+  "test/test_dhcp_manager.py::TestDhcpManager::test_parse_file"
+]
